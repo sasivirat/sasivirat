@@ -1,11 +1,10 @@
-# Hi Everyone! Welcome to SasiKishoreVarma GitHub Profile
+<h1 align="center">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm SasiKishoreVarma </h1>
 
-## On this page I keep all of the docs 
+## Connect With Me 
 
 <a href="https://medium.com/@sasi.virat1997"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="drawing" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/sasi-kishore-varma-81b365240/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/sasivirat18"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
 
 
-<h1 align="center">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm SasiKishoreVarma </h1>
 </p>
 <br>
 
@@ -17,18 +16,12 @@
 - :student: My other Stacks: `Machine Learning Engineering`, `Deep Learning`, `Computer Vision`, and `Natural Language Processing`
 - :nerd_face: Always `learning new things and growing`
 
-<br>
-
-<br>
-
-
 ## 🛠️ My Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
 ### 👉 Programming Languages
 <p align="left">
 	&emsp;
 	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-
 </p>
 
 ### Backend Development
