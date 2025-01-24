@@ -70,7 +70,18 @@
 </a>
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sasivirat&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sasivirat&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sasivirat&theme=radical)
+
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sasivirat&theme=radical)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sasivirat&theme=radical)
+
+[![Contribution](https://github-contributor-stats.vercel.app/api?username=sasivirat)](https://github.com/sasivirat)
 
 ### 👉 Software & Tools
  🟩📊 Excel
